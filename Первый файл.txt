@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 echo "Hello World;"
-echo "Привет Юзер;!"
+echo "Привет Юзер!;"
+echo "Hello my dear friend!;"
+echo "Glad to see you!;"
