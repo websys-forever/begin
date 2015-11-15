@@ -1,2 +1,3 @@
 echo "Hello World";
 echo "Привет Юзер!";
+echo "Hello my dear friend!";
