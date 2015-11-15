@@ -1,2 +1,2 @@
-echo "Hello World";
-echo "Привет Юзер!";
+echo "Hello World;"
+echo "Привет Юзер;!"
